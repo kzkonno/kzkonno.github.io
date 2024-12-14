@@ -1,32 +1,37 @@
 {
-    "categories": [
-      {
-        "id": "katakori",
-        "name": "肩こり",
-        "videos": [
-          {
-            "id": "katakori_1",
-            "title": "肩こりの鉄板",
-            "description": "肩こりを解消する基本施術",
-            "video_url": "https://kzkonno.github.io/movie1.mov",
-            "thumbnail_url": "https://kzkonno.github.io/thumnail1.jpg"
-          },
-          {
-            "id": "katakori_2",
-            "title": "僧帽筋周囲筋に着目",
-            "description": "僧帽筋へのアプローチ方法",
-            "video_url": "https://kzkonno.github.io/movie1.mov",
-            "thumbnail_url": "https://kzkonno.github.io/thumnail1.jpg"
-          }
-        ]
-      },
-      {
-        "id": "yotsuu",
-        "name": "腰痛",
-        "videos": [ 
-          { }
+  "categories": [
+    {
+      "id": "katakori",
+      "name": "肩こり",
+      "videos": [
+        {
+          "id": "katakori_1",
+          "title": "肩こりの鉄板",
+          "description": "肩こりを解消する基本施術",
+          "video_url": "https://kzkonno.github.io/movie1.mov",
+          "thumbnail_url": "https://kzkonno.github.io/thumnail1.jpg"
+        },
+        {
+          "id": "katakori_2",
+          "title": "僧帽筋周囲筋に着目",
+          "description": "僧帽筋へのアプローチ方法",
+          "video_url": "https://kzkonno.github.io/movie1.mov",
+          "thumbnail_url": "https://kzkonno.github.io/thumnail1.jpg"
+        }
       ]
-      }
-    ]
-  }
-  
+    },
+    {
+      "id": "yotsuu",
+      "name": "腰痛",
+      "videos": [
+        {
+          "id": "yotsuu_1",
+          "title": "腰痛対策 基本編",
+          "description": "腰痛の基本的な施術法",
+          "video_url": "https://kzkonno.github.io/movie2.mov",
+          "thumbnail_url": "https://kzkonno.github.io/thumnail2.jpg"
+        }
+      ]
+    }
+  ]
+}
